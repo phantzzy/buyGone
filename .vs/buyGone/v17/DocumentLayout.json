@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raivis\\source\\repos\\buyGone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\server.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\server.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\listings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\listings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\create_listing.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\create_listing.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\create_listing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\create_listing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\signup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\signup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|c:\\users\\raivis\\source\\repos\\buygone\\buygone\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD15F6DD-4A98-48DB-AB57-09B3FEF2F584}|buyGone\\buygone.esproj|solutionrelative:buygone\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\.env",
+              "RelativeDocumentMoniker": "buygone\\.env",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\.env",
+              "RelativeToolTip": "buygone\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-09T12:35:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "listings.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\listings.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\listings.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\listings.jsx",
+              "RelativeToolTip": "buygone\\src\\listings.jsx",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-06T00:41:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "create_listing.css",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\create_listing.css",
+              "RelativeDocumentMoniker": "buygone\\src\\create_listing.css",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\create_listing.css",
+              "RelativeToolTip": "buygone\\src\\create_listing.css",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv4IAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T22:34:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "create_listing.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\create_listing.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\create_listing.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\create_listing.jsx",
+              "RelativeToolTip": "buygone\\src\\create_listing.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-05T19:33:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\styles.css",
+              "RelativeDocumentMoniker": "buygone\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\styles.css",
+              "RelativeToolTip": "buygone\\src\\styles.css",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv4IAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T19:15:17.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\components\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "buygone\\src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-05T19:11:22.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\App.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\App.jsx",
+              "RelativeToolTip": "buygone\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-05T19:07:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signup.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\signup.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\signup.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\signup.jsx",
+              "RelativeToolTip": "buygone\\src\\signup.jsx",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-05T18:26:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.mjs",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\server.mjs",
+              "RelativeDocumentMoniker": "buygone\\server.mjs",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\server.mjs",
+              "RelativeToolTip": "buygone\\server.mjs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwJ0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-05T18:37:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\Login.jsx",
+              "RelativeDocumentMoniker": "buygone\\src\\Login.jsx",
+              "ToolTip": "C:\\Users\\Raivis\\source\\repos\\buyGone\\buygone\\src\\Login.jsx",
+              "RelativeToolTip": "buygone\\src\\Login.jsx",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-05T18:22:58.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

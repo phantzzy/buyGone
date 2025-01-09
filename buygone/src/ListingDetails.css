@@ -1,0 +1,144 @@
+/* General Page Layout */
+.listing-details-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Carousel Section */
+.image-carousel {
+    flex: 1.5;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.main-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.thumbnail-container {
+    display: flex;
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.thumbnail:hover,
+.thumbnail.active {
+    border-color: #007b5e;
+}
+
+/* Details Section */
+.details-section {
+    flex: 2;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.details-section h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.details-section p {
+    margin: 5px 0;
+}
+
+.details-section .price {
+    font-size: 28px;
+    font-weight: bold;
+    color: #007b5e;
+}
+
+/* Description Section */
+.description-container {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.description-container h3 {
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #333;
+}
+
+.description {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Information Layout */
+.info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.info-grid p {
+    font-size: 14px;
+}
+
+.info-grid p strong {
+    font-weight: bold;
+}
+
+/* Map Section */
+.map-container {
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Purchase Button */
+.purchase-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #007b5e;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.purchase-btn:hover {
+    background-color: #005f4b;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .listing-details-container {
+        flex-direction: column;
+    }
+
+    .main-image {
+        height: 300px;
+    }
+}

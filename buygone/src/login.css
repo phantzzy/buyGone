@@ -1,0 +1,122 @@
+/* login.css */
+
+/* Container Styles */
+.login-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Left Section Styles */
+.login-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #004d40;
+    color: white;
+    padding: 20px;
+}
+
+.login-logo img {
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.login-left h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.login-left h2 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+/* Right Section Styles */
+.login-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.login-title {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.login-form .form-group {
+    margin-bottom: 15px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #004d40;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .login-button:hover {
+        background-color: #00796b;
+    }
+
+.login-or {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.google-login-button {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .google-login-button:hover {
+        background-color: #f4f4f4;
+    }
+
+.google-icon {
+    margin-right: 10px;
+}
+
+.signup-link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+    .signup-link a {
+        color: #00796b;
+        text-decoration: none;
+        font-weight: bold;
+    }

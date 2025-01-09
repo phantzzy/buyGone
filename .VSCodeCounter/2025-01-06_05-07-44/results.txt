@@ -1,0 +1,85 @@
+Date : 2025-01-06 05:07:44
+Directory : c:\Users\Raivis\source\repos\buyGone
+Total : 38 files,  8416 codes, 84 comments, 277 blanks, all 8777 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          8 |      6,627 |          0 |          4 |      6,631 |
+| CSS            |          7 |        766 |         26 |        125 |        917 |
+| JavaScript JSX |         11 |        718 |         31 |         90 |        839 |
+| JavaScript     |          4 |        237 |         27 |         48 |        312 |
+| XML            |          3 |         34 |          0 |          0 |         34 |
+| Markdown       |          2 |         15 |          0 |          7 |         22 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Properties     |          1 |          5 |          0 |          1 |          6 |
+| ApexLog        |          1 |          1 |          0 |          1 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                       | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                          |         38 |      8,416 |         84 |        277 |      8,777 |
+| . (Files)                                                                                  |          2 |      1,184 |          0 |          2 |      1,186 |
+| .vs                                                                                        |          3 |        353 |          0 |          0 |        353 |
+| .vs (Files)                                                                                |          1 |          7 |          0 |          0 |          7 |
+| .vs\buyGone                                                                                |          2 |        346 |          0 |          0 |        346 |
+| .vs\buyGone\v17                                                                            |          2 |        346 |          0 |          0 |        346 |
+| buygone                                                                                    |         33 |      6,879 |         84 |        275 |      7,238 |
+| buygone (Files)                                                                            |          9 |      5,116 |         19 |         50 |      5,185 |
+| buygone\obj                                                                                |          2 |         33 |          0 |          1 |         34 |
+| buygone\obj\Debug                                                                          |          2 |         33 |          0 |          1 |         34 |
+| buygone\public                                                                             |          1 |          1 |          0 |          0 |          1 |
+| buygone\src                                                                                |         21 |      1,729 |         65 |        224 |      2,018 |
+| buygone\src (Files)                                                                        |         16 |      1,379 |         51 |        203 |      1,633 |
+| buygone\src\assets                                                                         |          2 |        207 |          0 |          0 |        207 |
+| buygone\src\components                                                                     |          2 |        105 |          6 |         12 |        123 |
+| buygone\src\models                                                                         |          1 |         38 |          8 |          9 |         55 |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                   | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\Raivis\source\repos\buyGone\.vs\VSWorkspaceState.json                             | JSON           |          7 |          0 |          0 |          7 |
+| c:\Users\Raivis\source\repos\buyGone\.vs\buyGone\v17\DocumentLayout.backup.json            | JSON           |        173 |          0 |          0 |        173 |
+| c:\Users\Raivis\source\repos\buyGone\.vs\buyGone\v17\DocumentLayout.json                   | JSON           |        173 |          0 |          0 |        173 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\.env                                          | Properties     |          5 |          0 |          1 |          6 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\CHANGELOG.md                                  | Markdown       |         10 |          0 |          3 |         13 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\README.md                                     | Markdown       |          5 |          0 |          4 |          9 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\eslint.config.js                              | JavaScript     |         37 |          0 |          2 |         39 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\index.html                                    | HTML           |         13 |          0 |          1 |         14 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\obj\Debug\buygone.esproj.FileListAbsolute.txt | ApexLog        |          1 |          0 |          1 |          2 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\obj\Debug\package.g.props                     | XML            |         32 |          0 |          0 |         32 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\package-lock.json                             | JSON           |      4,849 |          0 |          1 |      4,850 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\package.json                                  | JSON           |         35 |          0 |          1 |         36 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\public\vite.svg                               | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\server.mjs                                    | JavaScript     |        154 |         18 |         36 |        208 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\App.jsx                                   | JavaScript JSX |         24 |          0 |          3 |         27 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\Categories.css                            | CSS            |         23 |          0 |          4 |         27 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\Home.css                                  | CSS            |         46 |          0 |          7 |         53 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\Home.jsx                                  | JavaScript JSX |         43 |          1 |          6 |         50 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\Login.jsx                                 | JavaScript JSX |         78 |          2 |          6 |         86 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\Profile.jsx                               | JavaScript JSX |         16 |          0 |          2 |         18 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\assets\querycheck.json                    | JSON           |        206 |          0 |          0 |        206 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\assets\react.svg                          | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\categories.jsx                            | JavaScript JSX |         40 |          1 |          6 |         47 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\components\Footer.jsx                     | JavaScript JSX |          8 |          0 |          2 |         10 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\components\Navbar.jsx                     | JavaScript JSX |         97 |          6 |         10 |        113 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\create_listing.css                        | CSS            |        189 |          5 |         30 |        224 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\create_listing.jsx                        | JavaScript JSX |        197 |         11 |         29 |        237 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\index.css                                 | CSS            |         61 |          0 |          8 |         69 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\listings.css                              | CSS            |        112 |          5 |         20 |        137 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\listings.jsx                              | JavaScript JSX |        134 |          8 |         17 |        159 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\login.css                                 | CSS            |        100 |          4 |         19 |        123 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\main.jsx                                  | JavaScript JSX |          9 |          0 |          2 |         11 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\models\userModel.mjs                      | JavaScript     |         38 |          8 |          9 |         55 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\signup.jsx                                | JavaScript JSX |         72 |          2 |          7 |         81 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\src\styles.css                                | CSS            |        235 |         12 |         37 |        284 |
+| c:\Users\Raivis\source\repos\buyGone\buygone\vite.config.js                                | JavaScript     |          8 |          1 |          1 |         10 |
+| c:\Users\Raivis\source\repos\buyGone\package-lock.json                                     | JSON           |      1,175 |          0 |          1 |      1,176 |
+| c:\Users\Raivis\source\repos\buyGone\package.json                                          | JSON           |          9 |          0 |          1 |         10 |
+| Total                                                                                      |                |      8,416 |         84 |        277 |      8,777 |
++--------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

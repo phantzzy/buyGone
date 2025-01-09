@@ -1,0 +1,206 @@
+{
+    "_id": {
+      "$oid": "677af65902f5a3a72ff66313"
+    },
+    "name": "Construction",
+    "subcategories": [
+      {
+        "id": "677af659-1",
+        "name": "Building Materials",
+        "subcategories": [
+          {
+            "id": "677af659-1-1",
+            "name": "Finishing Materials",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-2",
+            "name": "Doors, Windows, Stairs, Fences, Locks",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-3",
+            "name": "Bricks, Stones, Paving",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-4",
+            "name": "Timber",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-5",
+            "name": "Sand, Gravel, Crushed Stone, Dolomite",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-6",
+            "name": "Reinforcement and Metal Structures",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-7",
+            "name": "Power Supplies, Drivers, Controllers",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-8",
+            "name": "Concrete and Ready Mixes",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-9",
+            "name": "Cement and Lime",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-10",
+            "name": "Electricity",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-11",
+            "name": "Facade Materials",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-12",
+            "name": "Aerated Concrete and Expanded Clay",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-13",
+            "name": "Waterproofing Materials",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-14",
+            "name": "Sewer Rings, Pipes, Drains",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-15",
+            "name": "Chemicals and Oils",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-16",
+            "name": "LED Profiles and Strips",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-17",
+            "name": "Scrap Metal",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-18",
+            "name": "Metal Materials",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-19",
+            "name": "Soft Roofing",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-20",
+            "name": "Foundation Blocks",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-21",
+            "name": "Beams and Overlays",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-22",
+            "name": "Profiles for Drywall",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-23",
+            "name": "Drywall",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-24",
+            "name": "Slate and Tiles",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-25",
+            "name": "Thermal Insulation",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-26",
+            "name": "Bulbs",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-27",
+            "name": "Poles and Towers",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-28",
+            "name": "Water Drainage Systems",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-29",
+            "name": "Ventilation",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-1-30",
+            "name": "Miscellaneous",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "id": "677af659-2",
+        "name": "Construction Works",
+        "subcategories": [
+          {
+            "id": "677af659-2-1",
+            "name": "Interior Finishing Works",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-2-2",
+            "name": "Construction and Projects",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-2-3",
+            "name": "Windows, Doors, Stairs, Railings",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "id": "677af659-3",
+        "name": "Tools and Equipment",
+        "subcategories": [
+          {
+            "id": "677af659-3-1",
+            "name": "Tools, Workbenches, Machines, Equipment",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-3-2",
+            "name": "Construction Machinery",
+            "subcategories": []
+          },
+          {
+            "id": "677af659-3-3",
+            "name": "Miscellaneous",
+            "subcategories": []
+          }
+        ]
+      }
+    ]
+  }

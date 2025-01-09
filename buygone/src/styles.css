@@ -1,0 +1,284 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+    box-sizing: border-box;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Top White Navbar */
+.top-navbar {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/* Bottom Green Navbar */
+.bottom-navbar {
+    width: 100%;
+    background-color: #004d40;
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    box-sizing: border-box;
+}
+
+    .bottom-navbar a {
+        color: white;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+.create-listing {
+    background-color: #004d40; /* Dark green color */
+    color: #F4F4F4; /* Light text color */
+    padding: 10px 20px; /* Inner spacing */
+    border: none; /* No border */
+    border-radius: 20px; /* Rounded edges */
+    font-weight: bold; /* Bold text */
+    font-size: 1rem; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: all 0.3s ease; /* Smooth transition effect */
+}
+
+    .create-listing:hover {
+        background-color: #00796b; /* Slightly lighter green on hover */
+    }
+
+/* Profile Dropdown */
+.profile-dropdown {
+    position: relative; /* Makes dropdown position relative to this container */
+    cursor: pointer;
+}
+
+    .profile-dropdown svg {
+        font-size: 1.5rem; /* Adjust icon size */
+    }
+
+.dropdown-menu {
+    position: absolute;
+    top: 40px; /* Position dropdown below the icon */
+    right: 0;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+    border-radius: 8px;
+    overflow: hidden;
+    z-index: 1000; /* Ensure it appears above other elements */
+    width: 150px; /* Adjust width */
+}
+
+    /* Styles for dropdown links */
+    .dropdown-menu a,
+    .dropdown-menu button { /* Apply styles to both links and buttons */
+        display: block;
+        padding: 10px 15px;
+        color: #333; /* Dark text color */
+        text-decoration: none;
+        font-size: 1rem;
+        transition: background-color 0.2s ease;
+        text-align: left; /* Align text to the left */
+        border: none; /* Remove default button border */
+        background: none; /* Remove default button background */
+        cursor: pointer; /* Add pointer cursor for consistency */
+        width: 100%; /* Make button width match parent */
+    }
+
+        /* Hover effect */
+        .dropdown-menu a:hover,
+        .dropdown-menu button:hover {
+            background-color: #f4f4f4; /* Highlight on hover */
+        }
+
+    /* Fix button alignment */
+    .dropdown-menu button {
+        font-family: inherit; /* Ensure consistent font */
+        outline: none; /* Remove focus outline */
+    }
+
+.main-content {
+    padding: 40px 20px;
+    width: 100%;
+    box-sizing: border-box;
+    min-height: calc(100vh - 160px); /* Adjust height for header and footer */
+}
+
+
+/* Footer Styles */
+.footer {
+    padding: 10px 20px;
+    background-color: #09564a;
+    color: white;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Search Bar Styling */
+.search-container {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 25px;
+    padding: 5px 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40%;
+}
+
+.search-input {
+    border: none;
+    background: transparent;
+    outline: none;
+    flex-grow: 1;
+    padding: 8px;
+    font-size: 1rem;
+    color: #333;
+}
+
+.search-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .search-button svg {
+        font-size: 1.2rem;
+        color: #666;
+    }
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-container {
+    display: grid;
+    gap: 20px;
+}
+
+.card {
+    background-color: #09564a;
+    color: #F4F4F4;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.icon-group {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Increase gap between icons */
+    font-size: 1.5rem; /* Make icons bigger */
+    margin-left: 30px; /* Push the group more to the left */
+}
+
+.language-switcher {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 20px; /* Rounded edges */
+    border: 1px solid #ccc; /* Subtle border like the example */
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+    .language-switcher img {
+        width: 20px; /* Flag size */
+        height: 20px;
+        margin-right: 5px; /* Space between flag and text */
+    }
+
+
+.logo-image {
+    height: 40px; /* Adjust as needed */
+    width: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .bottom-navbar {
+        flex-direction: column;
+    }
+}
+
+/* Categories Grid */
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.category-card {
+    background-color: #09564a;
+    color: #F4F4F4;
+    padding: 40px;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+    .category-card:hover {
+        transform: scale(1.05);
+    }
+
+.category-icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,9 @@
+"filename", "language", "JavaScript", "CSS", "JavaScript JSX", "comment", "blank", "total"
+"c:\Users\Raivis\source\repos\buyGone\buygone\server.mjs", "JavaScript", 3, 0, 0, -1, 2, 4
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\App.jsx", "JavaScript JSX", 0, 0, 2, 0, 0, 2
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\ListingDetails.css", "CSS", 0, 116, 0, 7, 21, 144
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\ListingDetails.jsx", "JavaScript JSX", 0, 0, 71, 0, 11, 82
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\create_listing.jsx", "JavaScript JSX", 0, 0, 33, 0, 2, 35
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\listings.jsx", "JavaScript JSX", 0, 0, 19, -8, 10, 21
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\models\listingModel.mjs", "JavaScript", 1, 0, 0, 0, 0, 1
+"Total", "-", 4, 116, 125, -2, 46, 289

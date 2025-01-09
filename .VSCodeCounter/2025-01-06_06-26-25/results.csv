@@ -1,0 +1,41 @@
+"filename", "language", "JSON", "Properties", "HTML", "JavaScript", "Markdown", "CSS", "JavaScript JSX", "XML", "ApexLog", "comment", "blank", "total"
+"c:\Users\Raivis\source\repos\buyGone\.vs\VSWorkspaceState.json", "JSON", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"c:\Users\Raivis\source\repos\buyGone\.vs\buyGone\v17\DocumentLayout.backup.json", "JSON", 173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 173
+"c:\Users\Raivis\source\repos\buyGone\.vs\buyGone\v17\DocumentLayout.json", "JSON", 173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 173
+"c:\Users\Raivis\source\repos\buyGone\buygone\.env", "Properties", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\Raivis\source\repos\buyGone\buygone\CHANGELOG.md", "Markdown", 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\Raivis\source\repos\buyGone\buygone\README.md", "Markdown", 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 4, 9
+"c:\Users\Raivis\source\repos\buyGone\buygone\eslint.config.js", "JavaScript", 0, 0, 0, 37, 0, 0, 0, 0, 0, 0, 2, 39
+"c:\Users\Raivis\source\repos\buyGone\buygone\index.html", "HTML", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\Users\Raivis\source\repos\buyGone\buygone\obj\Debug\buygone.esproj.FileListAbsolute.txt", "ApexLog", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2
+"c:\Users\Raivis\source\repos\buyGone\buygone\obj\Debug\package.g.props", "XML", 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 32
+"c:\Users\Raivis\source\repos\buyGone\buygone\package-lock.json", "JSON", 4849, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4850
+"c:\Users\Raivis\source\repos\buyGone\buygone\package.json", "JSON", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 36
+"c:\Users\Raivis\source\repos\buyGone\buygone\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\Raivis\source\repos\buyGone\buygone\server.mjs", "JavaScript", 0, 0, 0, 198, 0, 0, 0, 0, 0, 23, 42, 263
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 24, 0, 0, 0, 3, 27
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\Categories.css", "CSS", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 4, 27
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\Home.css", "CSS", 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 7, 53
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 43, 0, 0, 1, 6, 50
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\Login.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 78, 0, 0, 2, 6, 86
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\Profile.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 2, 18
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\assets\querycheck.json", "JSON", 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 206
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\categories.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 40, 0, 0, 1, 6, 47
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\components\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 2, 10
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\components\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 97, 0, 0, 6, 10, 113
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\create_listing.css", "CSS", 0, 0, 0, 0, 0, 189, 0, 0, 0, 5, 30, 224
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\create_listing.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 239, 0, 0, 14, 37, 290
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\index.css", "CSS", 0, 0, 0, 0, 0, 61, 0, 0, 0, 0, 8, 69
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\listings.css", "CSS", 0, 0, 0, 0, 0, 112, 0, 0, 0, 5, 20, 137
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\listings.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 162, 0, 0, 21, 26, 209
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\login.css", "CSS", 0, 0, 0, 0, 0, 100, 0, 0, 0, 4, 19, 123
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 2, 11
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\models\listingModel.mjs", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 3, 18
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\models\userModel.mjs", "JavaScript", 0, 0, 0, 38, 0, 0, 0, 0, 0, 8, 9, 55
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\signup.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 72, 0, 0, 2, 7, 81
+"c:\Users\Raivis\source\repos\buyGone\buygone\src\styles.css", "CSS", 0, 0, 0, 0, 0, 235, 0, 0, 0, 12, 37, 284
+"c:\Users\Raivis\source\repos\buyGone\buygone\vite.config.js", "JavaScript", 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 1, 10
+"c:\Users\Raivis\source\repos\buyGone\package-lock.json", "JSON", 1175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1176
+"c:\Users\Raivis\source\repos\buyGone\package.json", "JSON", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"Total", "-", 6627, 5, 13, 296, 15, 766, 788, 34, 1, 105, 303, 8953
